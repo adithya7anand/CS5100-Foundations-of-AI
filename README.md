@@ -13,7 +13,7 @@ This public repository documents my learning and completed programming assignmen
 | PA1 | Search | Graph search, uninformed and informed search, heuristics and Pacman search problems |
 | PA2 | Multi-Agent Search | Reflex agents, minimax, alpha-beta pruning, expectimax and state evaluation |
 | PA3 | Reinforcement Learning | Value iteration, Q-learning, approximate Q-learning and parameter analysis |
-| PA4 | Upcoming | Will be documented after completion |
+| PA4 | Machine Learning | Perceptron, regression, digit classification, language identification, CNNs and attention (due Nov 30, 2026) |
 
 Read the individual non-solution summaries in the `assignments/` directory.
 
